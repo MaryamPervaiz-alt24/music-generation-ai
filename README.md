@@ -37,8 +37,7 @@ Source: https://magenta.tensorflow.org/datasets/maestro
 - generated_music.mid : generated music (MIDI)
 - generated_music.wav : generated music (audio)
 - best_model.keras : trained model
-- training_loss.png : training output 
-
+  
 ## How to run
 1. Open the notebook in Google Colab and select a T4 GPU.
 2. Upload the MAESTRO MIDI files.
