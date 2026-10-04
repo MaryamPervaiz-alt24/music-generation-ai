@@ -33,11 +33,11 @@ Source: https://magenta.tensorflow.org/datasets/maestro
 7. Output: saved as MIDI and converted to audio (WAV).
 
 ## Files in this repository
-- music_generation.ipynb : full code (Colab notebook)
+- AI_music_generation_with_RNNS_and_GNNs_.ipynb : full code (Colab notebook)
 - generated_music.mid : generated music (MIDI)
 - generated_music.wav : generated music (audio)
 - best_model.keras : trained model
-- training_loss.png : training output screenshot
+- training_loss.png : training output 
 
 ## How to run
 1. Open the notebook in Google Colab and select a T4 GPU.
